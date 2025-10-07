@@ -1,6 +1,9 @@
 # SOMAS
 This repository contains the code and standalone executable file of the software SOMAS (Sleep Open-source Muscle activity Analysis System).
 
+<img width="400" height="400" alt="splash" src="https://github.com/user-attachments/assets/5053c09f-ba07-440d-a8e9-aa92833ecf51" />
+
+
 ## Content 
 The following folders/files are available:
 - The folder "code" contains the Matlab code of SOMAS. 
