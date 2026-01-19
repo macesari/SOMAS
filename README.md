@@ -13,7 +13,7 @@ The following folders/files are available:
 - The file SOMAS_instructions_V1.0_Aug25.pdf, which contains the detailed information on how to run the executable. Please follow them carefully to make SOMAS run locally
  
  ## Citation
- Please cite the manuscript [TO BE ADDED] when using SOMAS in your research.
+ Please cite the manuscript "SOMAS – an open-source software for the analysis of muscle activity during sleep" (https://doi.org/10.1016/j.sleep.2026.108791) when using SOMAS in your research.
 
  ## Issue report
  Please use the github issue report to communicate bugs/problems with SOMAS. Feel also free to contact the first author and last authors (Matteo Cesari - matteo.cesari@i-med.ac.at, Alessandro Silvani - alessandro.silvani3@unibo.it) for any inquiry. 
